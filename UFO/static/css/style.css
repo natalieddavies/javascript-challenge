@@ -1,6 +1,19 @@
 * {
   box-sizing: border-box;
-  font-family: Ubuntu, sans-serif;
+  font-family: Nunito', sans-serif;
+}
+
+/* Paragraph */
+p {
+color: black;
+font-size: 16px;
+background: pink;
+}
+
+h1 {
+  color:  black;
+  background: white;
+
 }
 
 html,
@@ -98,7 +111,7 @@ select {
   padding: 20px;
   margin: 0;
   background: black;
-  background-image: url("../images/nasa.jpg");
+  background-image: url("https://image.freepik.com/free-vector/cute-space-background_51697-115.jpg");
   background-attachment: fixed;
   background-position: bottom center;
   background-size: cover;
